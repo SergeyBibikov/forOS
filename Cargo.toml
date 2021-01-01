@@ -1,5 +1,5 @@
 [package]
-name = "forOS"
+name = "for_os"
 version = "0.1.0"
 authors = ["sergey"]
 edition = "2018"
